@@ -171,3 +171,10 @@ your
 yours
 yourself
 yourselves
+'t
+n't
+'re
+'s
+'ve
+'d
+'ll
